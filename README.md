@@ -24,5 +24,6 @@ Superstore Sales Dataset containing:
 - Seaborn
 
 ## Files
-- ProjectDeliverable1.ipynb
-- README.md
+
+ -MSCS_634_ProjectDeliverable_1.ipynb
+ - README.md
